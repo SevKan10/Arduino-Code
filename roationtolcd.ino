@@ -35,3 +35,4 @@
     //delay 100 mới thấy được sự thay đổi
   
 }
+// Code by SevKan and NamKito
