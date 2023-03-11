@@ -15,4 +15,5 @@ void loop() {
   } else { // ngược lại
     digitalWrite(led,LOW);
   }
-}
+} 
+// Code By SevKan
